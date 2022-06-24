@@ -2,6 +2,7 @@
 layout: single
 title:  "BeautifulSoup 네이버 뉴스 크롤링 및 AttributeError: 'list' object has no attribute 'text' 해결"
 ---
+# 네이버 뉴스 크롤링 및 에러 해결 방법
 
 파이썬을 활용해서 크롤링 하는 방법을 알아본다. 
 
